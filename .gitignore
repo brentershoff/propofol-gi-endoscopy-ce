@@ -1,0 +1,7 @@
+# Restricted data never go in this repository
+inputs/
+checkpoints/
+results/private_procedure_review/
+*_PRIVATE*
+*.pkl
+*.parquet
